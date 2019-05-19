@@ -11,7 +11,7 @@
     <groupId>com.gonnect.kafka.stream.cbr</groupId>
     <artifactId>kafka-stream-cbr</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>kafka-stream-join</name>
+    <name>kafka-stream-cbr</name>
     <description>Spring Boot Kafka Stream cbr</description>
 
 
